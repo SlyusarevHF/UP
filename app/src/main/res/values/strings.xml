@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CFA</string>
+    <string name="user">Login:</string>
+    <string name="password">Password:</string>
+    <string name="login_name">login</string>
+    <string name="login_pass">password</string>
+    <string name="login">Login</string>
+    <string name="auth">Authorization</string>
+    <string name="accept">Authorization</string>
+    <string name="choose">Select theme</string>
+    <string name="cybersport">Cybersport</string>
+    <string name="sport">Sport</string>
+    <string name="politics">Politics</string>
+    <string name="music">Music</string>
+    <string name="draw">Drawing</string>
+    <string name="back">Back to themes</string>
+
+</resources>
